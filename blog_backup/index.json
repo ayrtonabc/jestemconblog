@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "Ile Kosztuje Sklep Internetowy w 2024? Kompletny Przewodnik Cenowy",
+    "excerpt": "Dowiedz się dokładnie ile kosztuje stworzenie sklepu internetowego. Porównanie cen, ukryte koszty i jak zaoszczędzić na tworzeniu e-commerce.",
+    "slug": "ile-kosztuje-sklep-internetowy-2024",
+    "publishDate": "2024-01-15",
+    "readTime": "8 min",
+    "category": "E-commerce",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "2",
+    "title": "Strona Internetowa nie Wyświetla się Poprawnie? 7 Najczęstszych Problemów",
+    "excerpt": "Twoja strona internetowa ma problemy z wyświetlaniem? Poznaj 7 najczęstszych przyczyn i sposoby ich rozwiązania krok po kroku.",
+    "slug": "strona-internetowa-nie-wyswietla-sie-poprawnie",
+    "publishDate": "2024-01-10",
+    "readTime": "6 min",
+    "category": "Rozwiązywanie Problemów",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "3",
+    "title": "Pozycjonowanie Strony Internetowej - 10 Błędów Które Niszczą Twoje SEO",
+    "excerpt": "Poznaj 10 najczęstszych błędów w pozycjonowaniu stron internetowych i dowiedz się jak ich unikać, aby poprawić pozycje w Google.",
+    "slug": "bledy-w-pozycjonowaniu-stron-internetowych",
+    "publishDate": "2024-01-05",
+    "readTime": "12 min",
+    "category": "SEO",
+    "image": "https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "4",
+    "title": "Programista PHP na Godziny - Kiedy Warto Wynająć Freelancera?",
+    "excerpt": "Zastanawiasz się nad wynajęciem programisty PHP na godziny? Poznaj zalety, wady i kiedy to najlepsze rozwiązanie dla Twojego projektu.",
+    "slug": "programista-php-na-godziny",
+    "publishDate": "2024-01-01",
+    "readTime": "7 min",
+    "category": "Programowanie",
+    "image": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "5",
+    "title": "Tworzenie Sklepów Internetowych - WooCommerce vs Sklepy Dedykowane",
+    "excerpt": "Porównanie WooCommerce z dedykowanymi sklepami internetowymi. Które rozwiązanie wybrać dla swojego biznesu e-commerce?",
+    "slug": "woocommerce-vs-sklepy-dedykowane",
+    "publishDate": "2023-12-28",
+    "readTime": "10 min",
+    "category": "E-commerce",
+    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  }
+]
