@@ -1,0 +1,124 @@
+<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.95" />
+      <stop offset="100%" style="stop-color:#f8fafc;stop-opacity:0.95" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="1200" height="800" fill="url(#bgGradient)"/>
+  
+  <!-- Main title -->
+  <text x="600" y="80" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="white">PRAWDZIWE SUKCESY NASZYCH KLIENTÓW</text>
+  <text x="600" y="110" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="white" opacity="0.9">Sklepy internetowe, które zmieniły biznes w Ostródzie i okolicach</text>
+  
+  <!-- Success Story 1 -->
+  <rect x="50" y="150" width="350" height="250" rx="15" fill="url(#cardGradient)" stroke="white" stroke-width="2"/>
+  <rect x="70" y="170" width="310" height="40" rx="8" fill="#10b981"/>
+  <text x="225" y="195" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">SKLEP "MAZURSKIE SMAKI"</text>
+  
+  <!-- Chart for story 1 -->
+  <rect x="80" y="230" width="290" height="120" fill="white" rx="8"/>
+  <text x="225" y="250" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#374151">Wzrost sprzedaży (miesięcznie)</text>
+  
+  <!-- Bar chart -->
+  <rect x="100" y="320" width="30" height="20" fill="#ef4444"/>
+  <rect x="140" y="300" width="30" height="40" fill="#f97316"/>
+  <rect x="180" y="280" width="30" height="60" fill="#eab308"/>
+  <rect x="220" y="260" width="30" height="80" fill="#22c55e"/>
+  <rect x="260" y="240" width="30" height="100" fill="#10b981"/>
+  
+  <text x="115" y="335" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#6b7280">Sty</text>
+  <text x="155" y="335" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#6b7280">Lut</text>
+  <text x="195" y="335" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#6b7280">Mar</text>
+  <text x="235" y="335" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#6b7280">Kwi</text>
+  <text x="275" y="335" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#6b7280">Maj</text>
+  
+  <text x="225" y="370" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#10b981">+420% wzrost w 5 miesięcy</text>
+  <text x="225" y="385" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">Regionalne produkty • Ostróda</text>
+  
+  <!-- Success Story 2 -->
+  <rect x="425" y="150" width="350" height="250" rx="15" fill="url(#cardGradient)" stroke="white" stroke-width="2"/>
+  <rect x="445" y="170" width="310" height="40" rx="8" fill="#3b82f6"/>
+  <text x="600" y="195" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">SKLEP "TECH MORĄG"</text>
+  
+  <!-- Metrics for story 2 -->
+  <rect x="455" y="230" width="130" height="80" fill="white" rx="8"/>
+  <text x="520" y="250" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#3b82f6">2,847</text>
+  <text x="520" y="265" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">zamówień/miesiąc</text>
+  <text x="520" y="290" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#10b981">↗ +280%</text>
+  <text x="520" y="305" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#6b7280">vs rok poprzedni</text>
+  
+  <rect x="595" y="230" width="130" height="80" fill="white" rx="8"/>
+  <text x="660" y="250" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#f59e0b">#1</text>
+  <text x="660" y="265" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">Google Morąg</text>
+  <text x="660" y="290" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#10b981">"elektronika"</text>
+  <text x="660" y="305" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#6b7280">pierwsza pozycja</text>
+  
+  <text x="600" y="340" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#374151">"Sklep zrewolucjonizował nasz biznes!"</text>
+  <text x="600" y="355" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">- Właściciel, Tech Morąg</text>
+  <text x="600" y="385" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">Elektronika • Morąg • Warmińsko-Mazurskie</text>
+  
+  <!-- Success Story 3 -->
+  <rect x="800" y="150" width="350" height="250" rx="15" fill="url(#cardGradient)" stroke="white" stroke-width="2"/>
+  <rect x="820" y="170" width="310" height="40" rx="8" fill="#8b5cf6"/>
+  <text x="975" y="195" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">SKLEP "MODA OSTRÓDA"</text>
+  
+  <!-- Revenue chart -->
+  <rect x="830" y="230" width="290" height="100" fill="white" rx="8"/>
+  <text x="975" y="250" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#374151">Przychody miesięczne (PLN)</text>
+  
+  <!-- Line chart simulation -->
+  <polyline points="850,310 870,300 890,285 910,270 930,250 950,240 970,225 990,210 1010,195 1030,180 1050,165 1070,150 1090,140 1110,130" 
+            fill="none" stroke="#8b5cf6" stroke-width="3"/>
+  
+  <!-- Data points -->
+  <circle cx="850" cy="310" r="3" fill="#8b5cf6"/>
+  <circle cx="910" cy="270" r="3" fill="#8b5cf6"/>
+  <circle cx="970" cy="225" r="3" fill="#8b5cf6"/>
+  <circle cx="1030" cy="180" r="3" fill="#8b5cf6"/>
+  <circle cx="1110" cy="130" r="3" fill="#8b5cf6"/>
+  
+  <text x="975" y="350" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#8b5cf6">Od 15,000 do 85,000 PLN/miesiąc</text>
+  <text x="975" y="370" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">Odzież damska • Ostróda</text>
+  <text x="975" y="385" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">Uruchomiony: Styczeń 2024</text>
+  
+  <!-- Bottom section with overall stats -->
+  <rect x="100" y="450" width="1000" height="200" rx="20" fill="white" opacity="0.95"/>
+  <text x="600" y="490" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#374151">ŁĄCZNE REZULTATY NASZYCH SKLEPÓW</text>
+  
+  <!-- Stats grid -->
+  <rect x="150" y="520" width="180" height="100" rx="12" fill="#dcfce7"/>
+  <text x="240" y="550" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#16a34a">47</text>
+  <text x="240" y="570" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#16a34a">Sklepów uruchomionych</text>
+  <text x="240" y="590" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#16a34a">w Warmińsko-Mazurskiem</text>
+  <text x="240" y="605" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#16a34a">2022-2024</text>
+  
+  <rect x="360" y="520" width="180" height="100" rx="12" fill="#dbeafe"/>
+  <text x="450" y="550" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#2563eb">€2.3M</text>
+  <text x="450" y="570" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#2563eb">Łączne obroty</text>
+  <text x="450" y="590" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#2563eb">wygenerowane przez</text>
+  <text x="450" y="605" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#2563eb">nasze sklepy</text>
+  
+  <rect x="570" y="520" width="180" height="100" rx="12" fill="#fef3c7"/>
+  <text x="660" y="550" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#d97706">94%</text>
+  <text x="660" y="570" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#d97706">Klientów zadowolonych</text>
+  <text x="660" y="590" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#d97706">poleca nas dalej</text>
+  <text x="660" y="605" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#d97706">średnia ocena 4.9/5</text>
+  
+  <rect x="780" y="520" width="180" height="100" rx="12" fill="#f3e8ff"/>
+  <text x="870" y="550" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#9333ea">7 dni</text>
+  <text x="870" y="570" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#9333ea">Średni czas realizacji</text>
+  <text x="870" y="590" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#9333ea">od zamówienia do</text>
+  <text x="870" y="605" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#9333ea">uruchomienia sklepu</text>
+  
+  <!-- Call to action -->
+  <rect x="200" y="680" width="800" height="60" rx="30" fill="#FF3B30"/>
+  <text x="600" y="715" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">🚀 DOŁĄCZ DO GRONA ZADOWOLONYCH KLIENTÓW!</text>
+  <text x="600" y="735" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">Twój sklep może być następnym sukcesem • Ostróda • +48 517 105 423</text>
+</svg>

@@ -1,0 +1,185 @@
+<svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="800" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="1200" height="100" fill="#4f46e5"/>
+  <text x="600" y="40" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">PRAWDZIWE SUKCESY PLATFORM EDUKACYJNYCH</text>
+  <text x="600" y="70" font-family="Arial, sans-serif" font-size="16" fill="#c7d2fe" text-anchor="middle">Nasze platformy kursów zmieniają życie tysięcy uczniów w regionie</text>
+  
+  <!-- Success Story 1: IT Academy -->
+  <g transform="translate(50, 130)">
+    <rect x="0" y="0" width="350" height="200" rx="12" fill="white" stroke="#e5e7eb" stroke-width="2"/>
+    
+    <!-- Company Header -->
+    <rect x="0" y="0" width="350" height="50" rx="12" fill="#1e40af"/>
+    <text x="175" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">🎓 AKADEMIA IT MORĄG</text>
+    <text x="175" y="38" font-family="Arial, sans-serif" font-size="12" fill="#bfdbfe" text-anchor="middle">Kursy programowania i IT</text>
+    
+    <!-- Growth Chart -->
+    <rect x="20" y="70" width="150" height="100" fill="#f8fafc" stroke="#e5e7eb"/>
+    <text x="95" y="90" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#374151" text-anchor="middle">Wzrost uczniów</text>
+    
+    <!-- Chart bars -->
+    <rect x="30" y="140" width="15" height="20" fill="#3b82f6"/>
+    <rect x="50" y="130" width="15" height="30" fill="#3b82f6"/>
+    <rect x="70" y="115" width="15" height="45" fill="#3b82f6"/>
+    <rect x="90" y="105" width="15" height="55" fill="#1d4ed8"/>
+    <rect x="110" y="95" width="15" height="65" fill="#1d4ed8"/>
+    <rect x="130" y="85" width="15" height="75" fill="#1e40af"/>
+    
+    <!-- Months -->
+    <text x="37" y="175" font-family="Arial, sans-serif" font-size="8" fill="#6b7280" text-anchor="middle">Sty</text>
+    <text x="57" y="175" font-family="Arial, sans-serif" font-size="8" fill="#6b7280" text-anchor="middle">Lut</text>
+    <text x="77" y="175" font-family="Arial, sans-serif" font-size="8" fill="#6b7280" text-anchor="middle">Mar</text>
+    <text x="97" y="175" font-family="Arial, sans-serif" font-size="8" fill="#6b7280" text-anchor="middle">Kwi</text>
+    <text x="117" y="175" font-family="Arial, sans-serif" font-size="8" fill="#6b7280" text-anchor="middle">Maj</text>
+    <text x="137" y="175" font-family="Arial, sans-serif" font-size="8" fill="#6b7280" text-anchor="middle">Cze</text>
+    
+    <!-- Stats -->
+    <rect x="190" y="70" width="140" height="100" fill="#eff6ff"/>
+    <text x="260" y="90" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1e40af" text-anchor="middle">2,400+</text>
+    <text x="260" y="108" font-family="Arial, sans-serif" font-size="12" fill="#374151" text-anchor="middle">Aktywnych uczniów</text>
+    
+    <text x="260" y="130" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#059669" text-anchor="middle">89%</text>
+    <text x="260" y="145" font-family="Arial, sans-serif" font-size="10" fill="#374151" text-anchor="middle">Ukończalność kursów</text>
+    
+    <text x="260" y="165" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#dc2626" text-anchor="middle">4.9★</text>
+    <text x="260" y="180" font-family="Arial, sans-serif" font-size="10" fill="#374151" text-anchor="middle">Średnia ocena</text>
+  </g>
+  
+  <!-- Success Story 2: Language School -->
+  <g transform="translate(425, 130)">
+    <rect x="0" y="0" width="350" height="200" rx="12" fill="white" stroke="#e5e7eb" stroke-width="2"/>
+    
+    <!-- Company Header -->
+    <rect x="0" y="0" width="350" height="50" rx="12" fill="#059669"/>
+    <text x="175" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">🌍 SZKOŁA JĘZYKÓW OSTRÓDA</text>
+    <text x="175" y="38" font-family="Arial, sans-serif" font-size="12" fill="#a7f3d0" text-anchor="middle">Kursy językowe online</text>
+    
+    <!-- Revenue Chart -->
+    <rect x="20" y="70" width="150" height="100" fill="#f0fdf4" stroke="#bbf7d0"/>
+    <text x="95" y="90" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#374151" text-anchor="middle">Przychody miesięczne</text>
+    
+    <!-- Line chart -->
+    <polyline points="30,150 50,140 70,125 90,115 110,100 130,85 150,75" 
+              fill="none" stroke="#059669" stroke-width="3"/>
+    <circle cx="30" cy="150" r="3" fill="#059669"/>
+    <circle cx="50" cy="140" r="3" fill="#059669"/>
+    <circle cx="70" cy="125" r="3" fill="#059669"/>
+    <circle cx="90" cy="115" r="3" fill="#059669"/>
+    <circle cx="110" cy="100" r="3" fill="#059669"/>
+    <circle cx="130" cy="85" r="3" fill="#059669"/>
+    <circle cx="150" cy="75" r="3" fill="#16a34a"/>
+    
+    <!-- Revenue numbers -->
+    <text x="30" y="165" font-family="Arial, sans-serif" font-size="7" fill="#6b7280" text-anchor="middle">15k</text>
+    <text x="90" y="165" font-family="Arial, sans-serif" font-size="7" fill="#6b7280" text-anchor="middle">35k</text>
+    <text x="150" y="165" font-family="Arial, sans-serif" font-size="7" fill="#6b7280" text-anchor="middle">65k</text>
+    
+    <!-- Stats -->
+    <rect x="190" y="70" width="140" height="100" fill="#f0fdf4"/>
+    <text x="260" y="90" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#059669" text-anchor="middle">1,200+</text>
+    <text x="260" y="108" font-family="Arial, sans-serif" font-size="12" fill="#374151" text-anchor="middle">Kursantów</text>
+    
+    <text x="260" y="130" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#7c3aed" text-anchor="middle">95%</text>
+    <text x="260" y="145" font-family="Arial, sans-serif" font-size="10" fill="#374151" text-anchor="middle">Satysfakcji</text>
+    
+    <text x="260" y="165" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#f59e0b" text-anchor="middle">24/7</text>
+    <text x="260" y="180" font-family="Arial, sans-serif" font-size="10" fill="#374151" text-anchor="middle">Dostępność</text>
+  </g>
+  
+  <!-- Success Story 3: Business Academy -->
+  <g transform="translate(800, 130)">
+    <rect x="0" y="0" width="350" height="200" rx="12" fill="white" stroke="#e5e7eb" stroke-width="2"/>
+    
+    <!-- Company Header -->
+    <rect x="0" y="0" width="350" height="50" rx="12" fill="#7c3aed"/>
+    <text x="175" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">💼 AKADEMIA BIZNESU IŁAWA</text>
+    <text x="175" y="38" font-family="Arial, sans-serif" font-size="12" fill="#ddd6fe" text-anchor="middle">Kursy biznesowe i zarządzanie</text>
+    
+    <!-- Completion Rate -->
+    <rect x="20" y="70" width="150" height="100" fill="#faf5ff" stroke="#e9d5ff"/>
+    <text x="95" y="90" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#374151" text-anchor="middle">Certyfikaty wydane</text>
+    
+    <!-- Progress circles -->
+    <circle cx="60" cy="125" r="25" fill="none" stroke="#e5e7eb" stroke-width="4"/>
+    <circle cx="60" cy="125" r="25" fill="none" stroke="#7c3aed" stroke-width="4" 
+            stroke-dasharray="120" stroke-dashoffset="24" transform="rotate(-90 60 125)"/>
+    <text x="60" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7c3aed" text-anchor="middle">92%</text>
+    
+    <circle cx="130" cy="125" r="25" fill="none" stroke="#e5e7eb" stroke-width="4"/>
+    <circle cx="130" cy="125" r="25" fill="none" stroke="#f59e0b" stroke-width="4" 
+            stroke-dasharray="120" stroke-dashoffset="6" transform="rotate(-90 130 125)"/>
+    <text x="130" y="130" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f59e0b" text-anchor="middle">97%</text>
+    
+    <text x="60" y="165" font-family="Arial, sans-serif" font-size="8" fill="#6b7280" text-anchor="middle">Ukończalność</text>
+    <text x="130" y="165" font-family="Arial, sans-serif" font-size="8" fill="#6b7280" text-anchor="middle">Certyfikaty</text>
+    
+    <!-- Stats -->
+    <rect x="190" y="70" width="140" height="100" fill="#faf5ff"/>
+    <text x="260" y="90" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#7c3aed" text-anchor="middle">850+</text>
+    <text x="260" y="108" font-family="Arial, sans-serif" font-size="12" fill="#374151" text-anchor="middle">Absolwentów</text>
+    
+    <text x="260" y="130" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#dc2626" text-anchor="middle">#1</text>
+    <text x="260" y="145" font-family="Arial, sans-serif" font-size="10" fill="#374151" text-anchor="middle">W Google Iława</text>
+    
+    <text x="260" y="165" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#059669" text-anchor="middle">4.8★</text>
+    <text x="260" y="180" font-family="Arial, sans-serif" font-size="10" fill="#374151" text-anchor="middle">Opinie Google</text>
+  </g>
+  
+  <!-- Overall Statistics -->
+  <g transform="translate(100, 370)">
+    <rect x="0" y="0" width="1000" height="120" rx="12" fill="white" stroke="#e5e7eb" stroke-width="2"/>
+    <rect x="0" y="0" width="1000" height="40" rx="12" fill="#f3f4f6"/>
+    <text x="500" y="28" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#374151" text-anchor="middle">ŁĄCZNE STATYSTYKI NASZYCH PLATFORM KURSÓW</text>
+    
+    <!-- Stat boxes -->
+    <rect x="50" y="60" width="180" height="50" rx="8" fill="#eff6ff"/>
+    <text x="140" y="80" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1e40af" text-anchor="middle">15+</text>
+    <text x="140" y="100" font-family="Arial, sans-serif" font-size="12" fill="#374151" text-anchor="middle">Uruchomionych platform</text>
+    
+    <rect x="260" y="60" width="180" height="50" rx="8" fill="#f0fdf4"/>
+    <text x="350" y="80" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#059669" text-anchor="middle">8,500+</text>
+    <text x="350" y="100" font-family="Arial, sans-serif" font-size="12" fill="#374151" text-anchor="middle">Aktywnych uczniów</text>
+    
+    <rect x="470" y="60" width="180" height="50" rx="8" fill="#fef3c7"/>
+    <text x="560" y="80" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#d97706" text-anchor="middle">2.8M PLN</text>
+    <text x="560" y="100" font-family="Arial, sans-serif" font-size="12" fill="#374151" text-anchor="middle">Łączny obrót klientów</text>
+    
+    <rect x="680" y="60" width="180" height="50" rx="8" fill="#faf5ff"/>
+    <text x="770" y="80" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#7c3aed" text-anchor="middle">93%</text>
+    <text x="770" y="100" font-family="Arial, sans-serif" font-size="12" fill="#374151" text-anchor="middle">Średnia satysfakcji</text>
+  </g>
+  
+  <!-- Implementation Time -->
+  <g transform="translate(200, 520)">
+    <rect x="0" y="0" width="800" height="80" rx="12" fill="#f8fafc" stroke="#e5e7eb" stroke-width="1"/>
+    <text x="400" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#374151" text-anchor="middle">⚡ ŚREDNI CZAS WDROŻENIA</text>
+    
+    <!-- Timeline -->
+    <line x1="100" y1="50" x2="700" y2="50" stroke="#e5e7eb" stroke-width="4"/>
+    <circle cx="150" cy="50" r="8" fill="#4f46e5"/>
+    <circle cx="300" cy="50" r="8" fill="#4f46e5"/>
+    <circle cx="450" cy="50" r="8" fill="#4f46e5"/>
+    <circle cx="600" cy="50" r="8" fill="#059669"/>
+    
+    <text x="150" y="70" font-family="Arial, sans-serif" font-size="10" fill="#374151" text-anchor="middle">Dzień 1-2</text>
+    <text x="300" y="70" font-family="Arial, sans-serif" font-size="10" fill="#374151" text-anchor="middle">Dzień 3-5</text>
+    <text x="450" y="70" font-family="Arial, sans-serif" font-size="10" fill="#374151" text-anchor="middle">Dzień 6-7</text>
+    <text x="600" y="70" font-family="Arial, sans-serif" font-size="10" fill="#059669" text-anchor="middle">GOTOWE!</text>
+    
+    <text x="150" y="35" font-family="Arial, sans-serif" font-size="8" fill="#6b7280" text-anchor="middle">Projekt</text>
+    <text x="300" y="35" font-family="Arial, sans-serif" font-size="8" fill="#6b7280" text-anchor="middle">Rozwój</text>
+    <text x="450" y="35" font-family="Arial, sans-serif" font-size="8" fill="#6b7280" text-anchor="middle">Testy</text>
+    <text x="600" y="35" font-family="Arial, sans-serif" font-size="8" fill="#059669" text-anchor="middle">Uruchomienie</text>
+  </g>
+  
+  <!-- Call to Action -->
+  <g transform="translate(300, 650)">
+    <rect x="0" y="0" width="600" height="80" rx="12" fill="#4f46e5"/>
+    <text x="300" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">🚀 DOŁĄCZ DO ZADOWOLONYCH KLIENTÓW</text>
+    <text x="300" y="50" font-family="Arial, sans-serif" font-size="14" fill="#c7d2fe" text-anchor="middle">Platforma kursów gotowa w 7 dni</text>
+    <text x="300" y="68" font-family="Arial, sans-serif" font-size="12" fill="#a5b4fc" text-anchor="middle">Ostróda • Morąg • Iława • Cały region</text>
+  </g>
+</svg>

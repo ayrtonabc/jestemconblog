@@ -1,0 +1,26 @@
+.logo-slider-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.logo-slider {
+  display: flex;
+  transition: transform 0.1s linear;
+  will-change: transform;
+}
+
+.logo-slide {
+  flex: 0 0 auto;
+}
+
+@media (max-width: 768px) {
+  .logo-slide {
+    margin: 0 4px;
+  }
+  
+  .logo-slide img {
+    height: 40px;
+    max-width: 80px;
+  }
+}

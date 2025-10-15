@@ -1,0 +1,125 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="chartGradient" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF3B30;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#FF6B6B;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- Main content area -->
+  <rect x="50" y="50" width="700" height="500" fill="white" rx="20" opacity="0.95"/>
+  
+  <!-- Header -->
+  <text x="400" y="100" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#2d3748">
+    Wzrost Sprzedaży o 300%
+  </text>
+  <text x="400" y="130" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#4a5568">
+    Dzięki Profesjonalnej Stronie Wizytówce
+  </text>
+  
+  <!-- Growth chart -->
+  <rect x="100" y="180" width="600" height="250" fill="#f7fafc" stroke="#e2e8f0" stroke-width="2" rx="10"/>
+  
+  <!-- Chart grid -->
+  <line x1="150" y1="200" x2="150" y2="410" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="250" y1="200" x2="250" y2="410" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="350" y1="200" x2="350" y2="410" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="450" y1="200" x2="450" y2="410" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="550" y1="200" x2="550" y2="410" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="650" y1="200" x2="650" y2="410" stroke="#e2e8f0" stroke-width="1"/>
+  
+  <line x1="150" y1="200" x2="650" y2="200" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="150" y1="250" x2="650" y2="250" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="150" y1="300" x2="650" y2="300" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="150" y1="350" x2="650" y2="350" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="150" y1="400" x2="650" y2="400" stroke="#e2e8f0" stroke-width="1"/>
+  
+  <!-- Chart data -->
+  <polyline points="150,380 250,360 350,320 450,260 550,220 650,200" 
+            fill="none" stroke="#FF3B30" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Data points -->
+  <circle cx="150" cy="380" r="6" fill="#FF3B30"/>
+  <circle cx="250" cy="360" r="6" fill="#FF3B30"/>
+  <circle cx="350" cy="320" r="6" fill="#FF3B30"/>
+  <circle cx="450" cy="260" r="6" fill="#FF3B30"/>
+  <circle cx="550" cy="220" r="6" fill="#FF3B30"/>
+  <circle cx="650" cy="200" r="6" fill="#FF3B30"/>
+  
+  <!-- Chart labels -->
+  <text x="150" y="425" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4a5568">
+    Przed
+  </text>
+  <text x="250" y="425" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4a5568">
+    Mies. 1
+  </text>
+  <text x="350" y="425" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4a5568">
+    Mies. 2
+  </text>
+  <text x="450" y="425" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4a5568">
+    Mies. 3
+  </text>
+  <text x="550" y="425" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4a5568">
+    Mies. 6
+  </text>
+  <text x="650" y="425" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#4a5568">
+    Mies. 12
+  </text>
+  
+  <!-- Y-axis labels -->
+  <text x="130" y="405" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#4a5568">0</text>
+  <text x="130" y="355" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#4a5568">50</text>
+  <text x="130" y="305" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#4a5568">100</text>
+  <text x="130" y="255" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#4a5568">150</text>
+  <text x="130" y="205" font-family="Arial, sans-serif" font-size="11" text-anchor="end" fill="#4a5568">200</text>
+  
+  <!-- Statistics boxes -->
+  <rect x="100" y="460" width="150" height="60" fill="#FF3B30" rx="8"/>
+  <text x="175" y="480" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    +300%
+  </text>
+  <text x="175" y="500" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Wzrost sprzedaży
+  </text>
+  
+  <rect x="270" y="460" width="150" height="60" fill="#28a745" rx="8"/>
+  <text x="345" y="480" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    +500%
+  </text>
+  <text x="345" y="500" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Więcej klientów
+  </text>
+  
+  <rect x="440" y="460" width="150" height="60" fill="#17a2b8" rx="8"/>
+  <text x="515" y="480" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    #1
+  </text>
+  <text x="515" y="500" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    W Google Ostróda
+  </text>
+  
+  <rect x="610" y="460" width="140" height="60" fill="#6f42c1" rx="8"/>
+  <text x="680" y="480" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    24/7
+  </text>
+  <text x="680" y="500" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    Dostępność online
+  </text>
+  
+  <!-- Decorative elements -->
+  <circle cx="700" cy="100" r="30" fill="#ffd700" opacity="0.3"/>
+  <circle cx="750" cy="150" r="20" fill="#ff6b6b" opacity="0.3"/>
+  <circle cx="80" cy="120" r="25" fill="#4ecdc4" opacity="0.3"/>
+  
+  <!-- Success indicators -->
+  <text x="400" y="570" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2d3748">
+    Dołącz do 500+ zadowolonych klientów w Ostródzie i okolicach
+  </text>
+</svg>
